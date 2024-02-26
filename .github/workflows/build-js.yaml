@@ -27,6 +27,4 @@ jobs:
       with:
         name: build
         path: build/static/js
-
-    - name: Start application
-      run: npm start
+        
